@@ -15,3 +15,7 @@ execute these commands
 npm install
 npm start
 ```
+
+### Read the Software Requirements Specification -> abdisonfire.github.io/OnlineExamSystem/SoftwareRequirementsSpecification
+
+### Read the Software Design Specification -> abdisonfire.github.io/OnlineExamSystem/SoftwareDesignSpecification
