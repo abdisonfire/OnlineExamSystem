@@ -16,8 +16,6 @@ npm install
 npm start
 ```
 
-### Read the Software Requirements Specification:
-abdisonfire.github.io/OnlineExamSystem/SoftwareRequirementsSpecification
+### Read the [`Software Requirements Specification`](http://abdisonfire.github.io/OnlineExamSystem/SoftwareRequirementsSpecification)
 
-### Read the Software Design Specification:
-abdisonfire.github.io/OnlineExamSystem/SoftwareDesignSpecification
+### Read the [`Software Design Specification`](http://abdisonfire.github.io/OnlineExamSystem/SoftwareDesignSpecification)
